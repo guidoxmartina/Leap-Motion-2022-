@@ -30,7 +30,7 @@ rightclick each file and choose install.
 
 Don't know how persistent that is but got rid of the red "disconnected" anyways and my leap motion works like before now
 
-#Usar mano como mouse
+## Usar mano como mouse
 
 https://uwyn.com/gamewave/<br>
 
