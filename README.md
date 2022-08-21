@@ -31,7 +31,18 @@ rightclick each file and choose install.
 Don't know how persistent that is but got rid of the red "disconnected" anyways and my leap motion works like before now
 
 ## Usar mano como mouse
-
+con este software podemos mapear todos los movimientos que detecta el leap
 https://uwyn.com/gamewave/<br>
-
+ este otro es mas simple y creo q no sirve para mover el mouse
 https://gallery.leapmotion.com/handwave/
+
+
+### Agregar una aplicación para que se ejecute automáticamente al inicio en Windows 10
+Windows 10
+Selecciona el botón Inicio  y desplázate hasta encontrar la aplicación que quieras ejecutar en el inicio.
+
+Haz clic con el botón derecho en la aplicación, selecciona Más y después Abrir ubicación del archivo. Esto abre la ubicación donde se guarda el acceso directo a la aplicación. Si no existe una opción de Abrir ubicación del archivo, eso significa que la aplicación no se puede ejecutar en el inicio.
+
+Con la ubicación del archivo abierta, presiona la tecla del logotipo de Windows  + R, escribe shell:startup y luego selecciona Aceptar. Esto hará que se abra la carpeta Inicio.
+
+Copia y pega el acceso directo a la aplicación desde la ubicación del archivo a la carpeta Inicio.
