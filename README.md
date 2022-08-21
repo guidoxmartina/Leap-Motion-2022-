@@ -29,3 +29,9 @@ C:\Program Files (x86)\Leap Motion\Core Services\Drivers\ov580.inf
 rightclick each file and choose install.
 
 Don't know how persistent that is but got rid of the red "disconnected" anyways and my leap motion works like before now
+
+#Usar mano como mouse
+
+https://uwyn.com/gamewave/<br>
+
+https://gallery.leapmotion.com/handwave/
