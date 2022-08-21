@@ -33,7 +33,7 @@ Don't know how persistent that is but got rid of the red "disconnected" anyways 
 ## Usar mano como mouse
 ![image](https://user-images.githubusercontent.com/48781895/185792397-4c88650b-e4fd-4ca1-90ec-317344899306.png)
 
-con [este] (https://uwyn.com/gamewave/) software podemos mapear todos los movimientos que detecta el leap
+con [este](https://uwyn.com/gamewave/) software podemos mapear todos los movimientos que detecta el leap
 <br>
 
 
